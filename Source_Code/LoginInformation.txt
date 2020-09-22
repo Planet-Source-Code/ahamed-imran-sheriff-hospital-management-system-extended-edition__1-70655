@@ -1,0 +1,7 @@
+Username	Password
+
+EMP0001		admin
+EMP0002		cashier
+EMP0003		inpstaff
+EMP0004		outstaff
+EMP0005		receptionist
